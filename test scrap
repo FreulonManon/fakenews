@@ -1,0 +1,8 @@
+pip install bs4 requests
+import os
+import csv
+import requests
+from bs4 import BeautifulSoup
+requete = requests.get("https://www.lemonde.fr/economie/article/2019/02/23/comment-bruxelles-prepare-l-europe-au-no-deal_5427295_3234.html")
+page = requete.content
+soup = BeautifulSoup(page)
