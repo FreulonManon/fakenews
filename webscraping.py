@@ -6,7 +6,7 @@ result = requests.get(url)
 result
 content = result.content
 soup = BeautifulSoup(content, features="html.parser")
-soup
+# print(soup)
 #theme = ["gilets jaunes", "attentat", "immigration", "sport", "brexit", "climat"]
 #N=choice(theme)
 ##choisi.append(N)
