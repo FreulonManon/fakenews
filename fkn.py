@@ -10,8 +10,8 @@ from nltk.corpus import wordnet as wn
 from nltk.corpus import brown
 from nltk.corpus import wordnet
 
-
-url='https://newsapi.org/v2/top-headlines?country=fr&apiKey=30274f542d134b74a8e47c88110d11e0'
+#https://newsapi.org/v2/top-headlines?country=fr&apiKey=30274f542d134b74a8e47c88110d11e0
+url='https://newsapi.org/v2/top-headlines?country=gb&apiKey=30274f542d134b74a8e47c88110d11e0'
 data_raw = requests.get(url).json()  #articles récents
  
  
@@ -25,12 +25,11 @@ liste1 =[]
 liste2 =[]
 liste3=[]
 
-texte = nltk.word_tokenize("And now for something completely different") 
-result=nltk.pos_tag(texte)
-#for data in result: 
+VERBE=[]
+ADJ=[]
+NOM=[]
     
 
-print(result)
 
 for data in articles:
     for key, value in data.items():
@@ -51,8 +50,10 @@ for data in articles:
                 liste3.append("no data")
 
 
-for l in liste2:
-    print(nltk.word_tokenize(l))
+for l in liste1:
+    texte=(nltk.word_tokenize(l))
+    result=nltk.pos_tag(texte)
+    print(result)
     """
     prendre la chaine de liste2
     tokenization + postag
@@ -65,7 +66,7 @@ f = open('ARTICLES.txt','w')
 for i in range (len(liste1)):
     if (' ' in liste1[i]):
         sourceliste = liste1[i].split(" ")
-        source = sourceliste[len(sourceliste)-1]
+        source = sourceliste[len(sourceliste)-2]
         data = "JOURNAL: "+source+"\n"+"TITRE: "+liste1[i]+"\n"+"CONTENU: "+liste2[i]+"\n"+"DATE: "+liste3[i]+"\n\n\n"
         f.write(data)
 

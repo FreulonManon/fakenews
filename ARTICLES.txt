@@ -1,134 +1,151 @@
-JOURNAL: LCI
-TITRE: EN DIRECT – Edouard Baer : le cinéma ce n'est pas "manger des pizzas en regardant Netflix" - LCI - LCI
-CONTENU: QUI EST LADJ LY ? 
-C'est le premier Français en compétition pour la Palme d'or. Originaire de la cité des Bosquets, à Clichy-Montfermeil, Ladj Ly, 39 ans, est un ancien membre du collectif Kourtrajmé qu'il a fondé avec Romain Gavras et Kim Chapiron. Après av… [+719 chars]
-DATE: 2019-05-15T08:39:00Z
+JOURNAL: Daily
+TITRE: Norfolk mum speaks out about her experience on The Jeremy Kyle Show - Eastern Daily Press
+CONTENU: PUBLISHED: 12:36 15 May 2019 | UPDATED: 13:01 15 May 2019
+Rachel Roberts and her daughter. Photo: Courtesy of Rachel Roberts
+Rachel Roberts
+ITV announced the long running daytime TV show would be permanently cancelled following the news that guest Steve Dy… [+3468 chars]
+DATE: 2019-05-15T11:36:00Z
 
 
-JOURNAL: Mercato
-TITRE: OFFICIEL : Antoine Griezmann annonce son départ de l'Atlético de Madrid | Revue de presse - Foot Mercato
-CONTENU: Cette fois, c'est la bonne pour Antoine Griezmann. L'attaquant français a tenu une réunion aujourd'hui avec son entraîneur et le directeur général de l'Atlético de Madrid pour les informer de son désir de quitter le club. Il a ensuite communiqué officiellemen… [+2608 chars]
-DATE: 2019-05-15T08:30:46Z
+JOURNAL: The
+TITRE: Alabama passes bill banning abortion | News - The Times
+CONTENU: Alabama has become the first US state to pass legislation that bans all abortions, making it a crime to carry out the procedure at any stage of pregnancy unless a mothers health is at risk.
+The states Republican-controlled Senate approved the countrys strict… [+491 chars]
+DATE: 2019-05-15T11:00:00Z
 
 
-JOURNAL: geek
-TITRE: [Test] RAGE 2 : Ô RAGE, Ô des espoirs - Journal du geek
-CONTENU: Au premier contact avec RAGE 2, cest évidemment laspect graphique qui saute au visage. Avalanche Studio sest ainsi décidé pour des tons très saturés, une utilisation « audacieuse » du rose et du fluo. On est évidemment très loin du style graphique propre au p… [+5496 chars]
-DATE: 2019-05-15T08:23:00Z
+JOURNAL: The
+TITRE: Market rebound fades on weak Chinese data | Business - The Times
+CONTENU: A rebound in global stock markets which came after President Trump struck an optimistic tone about the prospect of a trade deal with China has eased on reports of weaker growth in Chinese retail sales and industrial output and more Italian debt woes.
+In Euro… [+467 chars]
+DATE: 2019-05-15T11:00:00Z
 
 
-JOURNAL: franceinfo
-TITRE: "Kotarac est le nom d'une boule puante de fin de campagne", tacle Jean-Luc Mélenchon après l'appel à voter ... - franceinfo
-CONTENU: Andréa Kotarac, élu régional LFI et ancien membre de l'équipe de campagne présidentielle de Jean-Luc Mélenchon, a annoncé mardi qu'il quittait LFI et allait voter pour la liste du Rassemblement national."Pour solde de tout compte : Kotarac est le nom d'une bo… [+1828 chars]
-DATE: 2019-05-15T08:14:36Z
+JOURNAL: BBC
+TITRE: US pulls 'non-emergency staff' from Iraq as Iran tensions mount - BBC News
+CONTENU: Image copyrightEPAImage caption
+ Iraq's prime minister said it had not observed "movements that constitute a threat to any side"
+The US state department has ordered the departure of "non-emergency employees" from Iraq, amid rising tensions between the US an… [+3676 chars]
+DATE: 2019-05-15T10:59:06Z
 
 
-JOURNAL: Morandini
-TITRE: Audiences Prime: Succès pour le lancement de la série "Manifest" leader sur TF1 à 5,4 millions - M6 sous les 2 millions - C8 frôle le million avec "Les Bodin's" - Le Blog de Jean-Marc Morandini
-CONTENU: Hier soir TF1 diffusait les trois premiers épisodes de la saison 1 de "Manifest" tandis que France 2 proposait le magazine "A table! Mangez sain, dépensez moins".
-France 3 de son côté présentait des épisodes de la série "Crimes parfaits" sur France 3.
-Enfin… [+1646 chars]
-DATE: 2019-05-15T07:22:22Z
+JOURNAL: Birmingham
+TITRE: This is why Liverpool FC fans aren’t happy with Aston Villa after West Brom win - Birmingham Live
+CONTENU: Aston Villas jubilant scenes at The Hawthorns were heard around the country.
+Thousands tuned into Sky Sports to witness the claret and blues dramatic penalty shoot-out win over local rivals West Bromwich Albion.
+Dean Smiths side were defeated 1-0 by Albion … [+1675 chars]
+DATE: 2019-05-15T10:48:00Z
 
 
-JOURNAL: Minutes
-TITRE: Le député LR Bernard Brochand jugé pour des comptes en Suisse non déclarés - 20 Minutes
-CONTENU: L'ancien maire de Cannes, Bernard Brochand, en 2011 BEBERT BRUNO/SIPA 
-Son procès avait été plusieurs fois reporté. Le doyen des députés, le CannoisBernard Brochand (LR), doit être jugé ce mercredi à Paris pour navoir pas mentionné des comptes en Suisse dans… [+1344 chars]
-DATE: 2019-05-15T07:21:43Z
+JOURNAL: Evening
+TITRE: Manchester United news and transfers LIVE Jadon Sancho to Man Utd and Alexis Sanchez to Inter Milan latest - Manchester Evening News
+CONTENU: Henderson reluctant to leave Man United permanently amid De Gea future doubts
+Dean Henderson is confident of becoming Manchester United’s first-choice goalkeeper amid uncertainty over David de Gea’s future.
+Henderson, 22, is keen on remaining at Sheffield U… [+989 chars]
+DATE: 2019-05-15T10:22:34Z
 
 
-JOURNAL: Libre
-TITRE: La star du golf Tiger Woods poursuivi pour la mort d'un de ses employés - Midi Libre
-CONTENU: La plainte vise Tiger Woods et sa compagne Erica Herman qui est la directrice du restaurant The Woods, situé à Jupiter, en Floride. Les parents de la victime, Nicholas Immesberger qui était barman au Woods, accusent Tiger Woods et sa compagne d'être responsab… [+2406 chars]
-DATE: 2019-05-15T06:56:43Z
+JOURNAL: Evening
+TITRE: Neasden fire: North Circular reopens after rush-hour disruption from warehouse blaze - Evening Standard
+CONTENU: The North Circular has reopened after a large warehouse fire caused severe rush-hour disruption.
+The westbound lanes reopened earlier this morning. One of the three eastbound lanes has also now opened. 
+The road, the A406, was closed during rush hour betwee… [+2931 chars]
+DATE: 2019-05-15T10:20:00Z
 
 
-JOURNAL: MonWindows
-TITRE: KB4494441 : le Patch Tuesday de mai 2019 est disponible sur Windows 10 et Mobile - MonWindows
-CONTENU: Microsoft a publié cette nuit de nouvelles mises à jour cumulatives pour Windows 10 à loccasion de son Patch Tuesday. Elles sont disponibles dès maintenant sur toutes les versions prises en charge de Windows 10.
-Tous les seconds mardi du mois, Microsoft dépl… [+952 chars]
-DATE: 2019-05-15T06:54:06Z
+JOURNAL: BBC
+TITRE: EU elections: Change UK's lead candidate in Scotland quits - BBC News
+CONTENU: Image caption
+ David Macdonald said he would not now be standing as a candidate for Change UK
+Change UK's lead candidate for the EU elections in Scotland has quit the race and is now endorsing the Lib Dems.
+David Macdonald is top of the Change UK list in S… [+1990 chars]
+DATE: 2019-05-15T09:55:59Z
 
 
-JOURNAL: Libéré
-TITRE: Faille dans WhatsApp : à quoi ressemble le logiciel espion ? - Le Dauphiné Libéré
-CONTENU: Une faille de sécurité - dévoilée par le Financial Times, et résorbée dans la dernière mise à jour de WhatsApp - a permis à des pirates d’insérer un logiciel malveillant sur des téléphones, simplement en appelant les usagers de l’application, utilisée par 1,5… [+2636 chars]
-DATE: 2019-05-15T06:50:00Z
+JOURNAL: Daily
+TITRE: Online retailers tighten returns policies for serial returners who wear clothes and send back - Daily Mail
+CONTENU: One in five online stores have tightened up their returns and refund policy amid the rise of 'serial returners' who generate huge costs and savage profits.
+It emerged last month that ASOS has begun blacklisting repeat returners and it seems other retailers a… [+4782 chars]
+DATE: 2019-05-15T09:15:00Z
 
 
-JOURNAL: Orange
-TITRE: La reprise d'Ascocal menacée ? Le repreneur annonce des difficultés financières - Actu Orange
-CONTENU: Orange avec AFP-Services, publié le mercredi 15 mai 2019 à 08h36
-Le groupe assure qu'il va respecter ses engagements et que ses problèmes de trésorerie n'avait pas d'impact sur la reprise.
-La reprise de l'aciériste Ascoval de Saint-Saulve est-elle menacée ?… [+2040 chars]
-DATE: 2019-05-15T06:36:00Z
-
-
-JOURNAL: Minutes
-TITRE: Parcoursup: Quelles formations sont les plus demandées par les candidats? - 20 Minutes
-CONTENU: Les premiers résultats vont tomber sur la plate-forme à partir de 19h. DENIS CHARLET / AFP
-Fin de suspense ce mercredi pour certains lycéens et étudiants en réorientation. Car Parcoursup dévoilera à partir de 19h les premières réponses aux voeux des candidat… [+5706 chars]
-DATE: 2019-05-15T05:55:03Z
-
-
-JOURNAL: BFMTV.COM
-TITRE: Emmanuel Macron sur une affiche de campagne pour les européennes - BFMTV.COM
+JOURNAL: Jewish
+TITRE: Singer behind anti-Israel Eurovision Madonna parody shared antisemitic video about 'Zionist Jews' - Jewish Chronicle
 CONTENU: no data
-DATE: 2019-05-15T05:40:00Z
+DATE: 2019-05-15T08:44:28Z
 
 
-JOURNAL: RTBF
-TITRE: Facebook restreint l'usage de Facebook Live, après l'attentat de Christchurch - RTBF
-CONTENU: Facebook a annoncé mercredi restreindre l'usage de sa plateforme Live de vidéo en direct, dont s'est servi le tueur de Christchurch en Nouvelle-Zélande pour diffuser le massacre de 51 personnes dans des mosquées mi-mars.
-Le réseau social avait été très criti… [+2434 chars]
-DATE: 2019-05-15T05:05:13Z
+JOURNAL: Daily
+TITRE: US orders all non-essential government staff to leave Iraq amid escalating tensions with Iran - Daily Mail
+CONTENU: America has today ordered all of its 'non-emergency government employees' to leave Iraq immediately amid escalating tensions with Iran.
+The U.S. State Department ordered the pullout of the employees from both the U.S. Embassy in Baghdad and its consulate in … [+17582 chars]
+DATE: 2019-05-15T08:24:47Z
 
 
-JOURNAL: FOOT-SUR7.fr
-TITRE: PSG - Mercato : Succession Tuchel, Mourinho lâche une bombe ! - FOOT-SUR7.fr
-CONTENU: Fragilisé par une fin de saison scabreuse, lentraîneur du PSG, Thomas Tuchel, pourrait être licencié à la surprise générale cet été. José Mourinho, libre depuis son départ de Manchester United en décembre dernier, ferait le forcing pour avoir le poste. Le tec… [+1366 chars]
-DATE: 2019-05-15T05:05:00Z
+JOURNAL: BBC
+TITRE: Poverty tightens grip on poorest children, research says - BBC News
+CONTENU: Image copyrightGetty Images
+Child poverty is tightening its grip on Britain's poorest families, research suggests.
+About two-thirds of children are living in poverty-hit families in pockets of some large cities, the study for End Child Poverty Coalition est… [+3498 chars]
+DATE: 2019-05-15T08:08:53Z
 
 
-JOURNAL: RTBF
-TITRE: Etats-Unis: l'avortement redevient un crime en Alabama, même en cas de viol - RTBF
-CONTENU: L'Etat d'Alabama a désormais la législation la plus restrictive en matière d'IVG aux Etats-Unis: pas d'exception en cas de viol, pas d'exception en cas d'inceste non plus. L'avortement redevient donc un crime en Alabama, avec une seule exception : si la mère … [+1807 chars]
-DATE: 2019-05-15T05:00:39Z
+JOURNAL: The
+TITRE: Generals agree truce in Sudan's bloody revolution | World - The Times
+CONTENU: Sudans generals and the popular opposition movement struck a deal for a transfer of power in the early hours of this morning as violence threatened to derail talks.
+The two sides said that there would be a three-year transition leading to elections. A sovere… [+494 chars]
+DATE: 2019-05-15T08:00:00Z
 
 
-JOURNAL: Minutes
-TITRE: Soudan: Accord sur une transition politique de trois ans - 20 Minutes
-CONTENU: Des manifestants à Khartoum, au Soudan, le 14 mai 2019. AP/SIPA 
-Un espoir pour une accalmie au Soudan ? Le Conseil militaire au pouvoir et des représentants des manifestants ont annoncé tôt mercredi, à lissue de discussions marathon, un accord sur une pério… [+2681 chars]
-DATE: 2019-05-15T01:16:50Z
+JOURNAL: Retail
+TITRE: Walmart "seriously considering" IPO for Asda - Retail Gazette
+CONTENU: // Asda parent company Walmart “seriously considering” a stock market flotation for the UK grocer
+// Walmart said that any preparations would “take years”
+// The initiative comes after Asda’s proposed £12bn merger with Sainsbury’s failed
+Walmart has reveal… [+1125 chars]
+DATE: 2019-05-15T07:40:46Z
 
 
-JOURNAL: Public
-TITRE: La JDA Dijon fait tomber le champion de France - Bien Public
-CONTENU: Abonnement : offre 100% numérique
-Toute l'information locale du bienpublic.com à partir de 2.
-J'en profite
-DATE: 2019-05-14T21:29:00Z
+JOURNAL: ITV
+TITRE: San Francisco becomes first US city to ban police use of facial recognition technology - ITV News
+CONTENU: no data
+DATE: 2019-05-15T07:27:00Z
 
 
-JOURNAL: Parisien
-TITRE: Hommage national : contrairement aux apparences, la mère d’un des militaires tués n’a pas repoussé Macron - Le Parisien
-CONTENU: Une séquence filmée au cours de lhommage aux deux militaires français, le 14 mai, aux Invalides a particulièrement attiré lattention des internautes.
-Avant son allocution, le président de la République Emmanuel Macron est allé saluer et échanger quelques mot… [+1275 chars]
-DATE: 2019-05-14T20:51:00Z
+JOURNAL: The
+TITRE: UK weather forecast – Brits WARNED as UV levels spike in 24C sunshine today - The Sun
+CONTENU: BRITS are set to enjoy warm temperatures of 24C today, as the Met Office warns sunseekers to cover up due to a big increase in UV levels.
+And weather forecasters predict high temperatures will continue throughout the week up until Friday - when thermometers … [+3476 chars]
+DATE: 2019-05-15T06:49:53Z
 
 
-JOURNAL: Boursorama
-TITRE: Auchan, acculé financièrement, vend ses magasins en Italie et au Vietnam - Boursorama
-CONTENU: Dans un supermarché Auchan à Rome, le 19 novembre 2012 ( AFP / GABRIEL BOUYS )
-Auchan va vendre la "quasi-totalité" de ses magasins en Italie ainsi que ceux du Vietnam, un désengagement nécessaire compte tenu de sa situation économique "très difficile" après… [+4975 chars]
-DATE: 2019-05-14T20:29:00Z
+JOURNAL: -
+TITRE: Watch tech's billionaires take over the world's rich list in this animated chart - Telegraph.co.uk
+CONTENU: Back in 1996 he was the only tech business owner in the top 10 and, from then until 2016, there are only two years where this number rose above three: in 1999 and 2000 prior to the bursting of the dot com bubble.
+Since 2016, however, the tech sector has laun… [+110 chars]
+DATE: 2019-05-15T06:49:00Z
 
 
-JOURNAL: Figaro
-TITRE: Dons pour Notre-Dame de Paris: l'archevêché de Paris sonne l'alarme - Le Figaro
-CONTENU: Larchevêque de Paris, Mgr Michel Aupetit, estime que rien nest encore joué alors que la Fondation du patrimoine a annoncé larrêt de la collecte de dons dédiée à la reconstruction de la cathédrale.À larchevêché de Paris, il y a eu comme un électrochoc le week-… [+901 chars]
-DATE: 2019-05-14T19:16:23Z
+JOURNAL: BBC
+TITRE: Phone and internet users to get end-of-contract alerts - BBC News
+CONTENU: Image copyrightGetty ImagesImage caption
+ Mobile phone subscribers will get a reminder ahead of their contract lock-ins coming to an end
+Broadband, pay-TV, mobile phone and landline customers must be told when their contracts are about to end and be informe… [+2385 chars]
+DATE: 2019-05-15T06:10:28Z
+
+
+JOURNAL: The
+TITRE: Your FREE end-of-the-world guide: What happens when a sun like ours runs out of fuel - The Register
+CONTENU: When a star dies, destroying so much around it, its the small, dense rocky planets that are the objects most likely to be left standing while the heavy, gassy planets crumble and perish.
+A team of astrophysicists came to this conclusion after modeling the ti… [+3343 chars]
+DATE: 2019-05-15T05:33:00Z
+
+
+JOURNAL: BBC
+TITRE: Deontay Wilder: WBC champion defends comments he wants to kill an opponent - BBC Sport
+CONTENU: Wilder drew with Britain's Tyson Fury in December
+American heavyweight Deontay Wilder has defended himself after again saying he wants to kill an opponent in the ring.
+Wilder, 33, said he was "trying to get a body on my record" before defending his WBC titl… [+1492 chars]
+DATE: 2019-05-15T00:51:48Z
 
 
