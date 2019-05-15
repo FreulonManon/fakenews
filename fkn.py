@@ -53,13 +53,21 @@ for data in articles:
 for l in liste1:
     texte=(nltk.word_tokenize(l))
     result=nltk.pos_tag(texte)
-    print(result)
-    """
-    prendre la chaine de liste2
-    tokenization + postag
-    reconstituer des titres d'articles aléatoirement
-    determinant un verbe un nom
-    """
+    
+    for r in result:
+        print(r)
+        if r[1] == 'NN':
+            NOM.append(r[0])
+        # if pour verbe
+
+print(NOM)
+
+"""
+prendre la chaine de liste2
+tokenization + postag
+reconstituer des titres d'articles aléatoirement
+determinant un verbe un nom
+"""
         
  
 f = open('ARTICLES.txt','w') 
