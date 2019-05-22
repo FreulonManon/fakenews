@@ -4,8 +4,7 @@ import random
 import nltk
 import ssl
 import re
-
-
+from random import *
 from nltk.corpus import wordnet as wn
 from nltk.corpus import brown
 from nltk.corpus import wordnet
@@ -26,9 +25,17 @@ liste2 =[]
 liste3=[]
 
 VERBE=[]
-ADJ=[]
 NOM=[]
-    
+DETER=[]
+IN=[]
+PHRASE=[]
+
+
+
+
+
+
+
 
 
 for data in articles:
@@ -50,17 +57,58 @@ for data in articles:
                 liste3.append("no data")
 
 
-for l in liste1:
+for l in liste2:
     texte=(nltk.word_tokenize(l))
     result=nltk.pos_tag(texte)
-    
-    for r in result:
-        print(r)
-        if r[1] == 'NN':
-            NOM.append(r[0])
-        # if pour verbe
 
-print(NOM)
+
+
+    
+for r in result:
+	if r[1] == 'NN':
+		NOM.append(r[0])
+	if r[1] == 'NNP':
+		NOM.append(r[0])
+	if r[1] == 'VB':
+		VERBE.append(r[0])
+	if r[1] == 'VBZ':
+		VERBE.append(r[0])
+	if r[1] == 'VBP':
+		VERBE.append(r[0])
+	if r[1] == 'VBN':
+		VERBE.append(r[0])
+	if r[1] == 'DT':
+		DETER.append(r[0])
+	if r[1] == 'IN':
+		IN.append(r[0])
+
+
+   
+
+
+D=choice(DETER)
+PHRASE.append(D)
+
+N=choice(NOM)
+PHRASE.append(N)
+
+V=choice(VERBE)
+PHRASE.append(V)
+
+I=choice(IN)
+PHRASE.append(I)
+
+D=choice(DETER)
+PHRASE.append(D)
+
+N=choice(NOM)
+PHRASE.append(N)
+
+p= open('PHRASES.txt', 'a')
+p.write(PHRASE)
+p.close()
+#print(PHRASE)
+
 
 """
 prendre la chaine de liste2
@@ -70,7 +118,7 @@ determinant un verbe un nom
 """
         
  
-f = open('ARTICLES.txt','w') 
+f = open('ARTICLES.txt','a') 
 for i in range (len(liste1)):
     if (' ' in liste1[i]):
         sourceliste = liste1[i].split(" ")
